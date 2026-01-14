@@ -1,7 +1,11 @@
 # YOLO26n ONNX 推論
 
 YOLO26n ONNXモデルを使用した物体検出プロジェクト。
-<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/f0389e60-d84c-4c45-9f42-605aaea5a562" />
+<img width="400" height="266" alt="image" src="https://github.com/user-attachments/assets/f0389e60-d84c-4c45-9f42-605aaea5a562" />
+
+### ONNXモデル
+https://netron.app/?url=https://raw.githubusercontent.com/nnn112358/yolo26_onnxruntime_example/main/yolo26n.onnx
+
 
 ## モデル情報
 
