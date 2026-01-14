@@ -1,0 +1,11 @@
+[project]
+name = "260115-yolo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "onnx>=1.20.1",
+    "onnxruntime>=1.23.2",
+    "opencv-python>=4.12.0.88",
+]
